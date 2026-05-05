@@ -10,7 +10,7 @@ Proficient in AI-driven chatbots, business workflows, reporting dashboards, and 
 # 🚀 Key Strengths / Highlights:
 - Designed & delivered 10+ enterprise production systems
 - Built AI chatbot integrated with enterprise business data
-- Experienced in scalable Microservices architecture
+- Experienced in scalable Modular/Microservices architecture
 - Strong in workflow automation & approval systems
 - Real-time communication systems using SignalR/WebSockets
 - Expertise in backend optimization & database tuning
