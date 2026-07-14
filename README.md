@@ -237,7 +237,6 @@ Data integration and ETL system for enterprise reporting and analytics.
 - Role-based access & evaluation modules
 
 ---
-## 🔹 Software Development Executive - Palmary Projects (2018 – 2019)
 
 ## 🔹 Associate Field Support - Mercer Mettl (2016 – 2017)
 
@@ -246,7 +245,7 @@ Data integration and ETL system for enterprise reporting and analytics.
 ---
 
 # 🧠 Core Technical Expertise:
-.NET Core | C# | ASP.NET MVC | Web API | MSSQL Server | Microservices | Docker | Azure Data Factory | Azure AI | OpenAI | SignalR | Google APIs | SendGrid | REST APIs | SSO | Active Directory
+.NET Core | C# | ASP.NET MVC | Web API | MSSQL Server | PostgresSQL | Microservices | Docker | Azure Data Factory | Azure AI | OpenAI | SignalR | Google APIs | SendGrid | Twillio | REST APIs | SSO | Active Directory
 
 ---
 
